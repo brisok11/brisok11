@@ -7,11 +7,11 @@ I’d love to explore ways we can work together. And if AI is **NEW** to you, no
 - 👯 I’m looking to collaborate with you.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
-#### 1. ACME Dashboard(NextJS) [Preview](https://acme-nextjs-teal.vercel.app/)
-#### 2. Aurano(Laravel)
-#### 3. Orientation & Mobile Responsive Page(HTML/CSS)
-#### 4. Aimeos(Laravel)
-#### 5. School Registration(PHP, Paypal Planning/Integration)
+#### 1. [Kubetorch](https://github.com/brisok11/kubetorch)(Python, Kubernetes) — Serverless ML workloads & distributed training on K8s
+#### 2. [Harness](https://github.com/brisok11/harness)(PyTorch, RL) — RL search agent with stateful retrieval & model evaluation
+#### 3. Model Evaluation Pipelines(Python, LLM APIs) — Automated benchmarking, rubric scoring & quality analysis
+#### 4. AI Automation Workflows(Python, FastAPI, Node.js) — Backend APIs & orchestration for AI-powered solutions
+#### 5. [Awesome ML Courses](https://github.com/brisok11/awesome-ml-courses) — Curated machine learning & AI learning resources
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **Skills**  
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,vite,angular,next,nest,nuxtjs,nodejs,expressjs,php,laravel,wordpress,mysql,postgres,mongodb,graphql,materialui,tailwind,jquery,bootstrap&perline=10)](#)
