@@ -1,6 +1,6 @@
 ![banner](assets/banner.png)
 
-### 🌐 [View my full portfolio site →](https://brisok11.github.io/brisok11/)
+### 🌐 [View my full portfolio site →](https://brisok11.github.io/)
 
 I’m a **Senior AI Engineer** and **Model Evaluation Specialist** with 8+ years of experience building backend systems, APIs, automation workflows, and **AI-powered solutions**.
 
