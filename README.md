@@ -11,7 +11,7 @@ Dynamic and detail-oriented **AI leader** with over 8 years of experience delive
 #### 4. [AI Automation Workflows](https://github.com/brisok11/AI-Automation-Workflows)(Python, FastAPI, Node.js) — Backend APIs & orchestration for AI-powered solutions
 #### 5. [Awesome ML Courses](https://github.com/brisok11/awesome-ml-courses) — Curated machine learning & AI learning resources
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **AI/ML Core Skills**  
+### 🤖 AI / ML Core
 ![AI/ML Core Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,docker,git,linux,aws,postgres)
 
 ### ⚙️ Backend & APIs
