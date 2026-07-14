@@ -12,7 +12,7 @@ Dynamic and detail-oriented **AI leader** with over 8 years of experience delive
 #### 5. [Awesome ML Courses](https://github.com/brisok11/awesome-ml-courses) — Curated machine learning & AI learning resources
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **Skills**  
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,vite,angular,next,nest,nuxtjs,nodejs,expressjs,php,laravel,wordpress,mysql,postgres,mongodb,graphql,materialui,tailwind,jquery,bootstrap&perline=10)](#)
+![AI/ML Core Skills](https://skillicons.dev/icons?i=python,numpy,pandas,jupyter,pytorch,tensorflow,sklearn,opencv,huggingface,docker,git,linux,aws,postgres)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Platforms and Tools**  
 [![Tools](https://skillicons.dev/icons?i=figma,firebase,aws,azure,vercel,nginx,github,git,vscode,postman&perline=10)](#)
