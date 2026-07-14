@@ -11,11 +11,20 @@ Dynamic and detail-oriented **AI leader** with over 8 years of experience delive
 #### 4. [AI Automation Workflows](https://github.com/brisok11/AI-Automation-Workflows)(Python, FastAPI, Node.js) — Backend APIs & orchestration for AI-powered solutions
 #### 5. [Awesome ML Courses](https://github.com/brisok11/awesome-ml-courses) — Curated machine learning & AI learning resources
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **Skills**  
-![AI/ML Core Skills](https://skillicons.dev/icons?i=python,numpy,pandas,jupyter,pytorch,tensorflow,sklearn,opencv,huggingface,docker,git,linux,aws,postgres)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **AI/ML Core Skills**  
+![AI/ML Core Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,docker,git,linux,aws,postgres)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Platforms and Tools**  
-[![Tools](https://skillicons.dev/icons?i=figma,firebase,aws,azure,vercel,nginx,github,git,vscode,postman&perline=10)](#)
+### ⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,graphql,postgres,mongodb,redis" />
+
+### 🎨 Frontend & Tooling
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,vite,git,vscode" />
+
+### 🚀 MLOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,gcp,azure,githubactions,terraform,prometheus,grafana" />
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width:100%;"/> -->
 ![footer](assets/footer.png)
