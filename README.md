@@ -4,7 +4,7 @@
 
 Dynamic and detail-oriented **AI leader** with over 8 years of experience delivering innovative, scalable solutions across **AI, machine learning, data science, and full-stack technology**. Proven expertise in designing and deploying end-to-end AI-powered applications by combining modern full-stack development with advanced AI model training, cloud platforms, and large-scale data management. Skilled in leveraging agile methodologies to drive advancements in generative AI, multi-agent systems, and intelligent automation. Demonstrated success in enhancing operational efficiency, leading high-performing engineering teams, and building cutting-edge AI-driven products from concept to production.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Projects 
 #### 1. [Kubetorch](https://github.com/brisok11/kubetorch)(Python, Kubernetes) — Serverless ML workloads & distributed training on K8s
 #### 2. [Harness](https://github.com/brisok11/harness)(PyTorch, RL) — RL search agent with stateful retrieval & model evaluation
 #### 3. [Model Evaluation Pipelines](https://github.com/brisok11/Model-Evaluation-Pipelines)(Python, LLM APIs) — Automated benchmarking, rubric scoring & quality analysis
